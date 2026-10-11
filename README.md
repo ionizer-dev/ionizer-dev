@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Mwendar 👋
 
-<!--
-**ionizer-dev/ionizer-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data analytics, networking & full-stack software development.
 
-Here are some ideas to get you started:
+## 🛠️ Skills
+- **Data:** Python, SQL, Power BI, Excel
+- **Development:** Full-stack software development, Java, Git
+- **IT:** Linux, Networking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 Looking for
+Internships and entry-level roles in:
+- Data analysis
+- Software development
+- IT operations
+
+## 📂 Projects
+- **Youtility:** A mobile app that brings everything you need on a daily basis into one place for convenience.
+- **DataSprint 2026 (Team Tres Amigos):** A machine learning model that predicts financial deterioration among Kenyan adults using the Kenya FinAccess dataset. Built with Python, XGBoost and Random Forest.
+
+## 📫 Contact
+- LinkedIn:www.linkedin.com/in/Ian-Mwenda
+
+- Email:ianmwenda950@gmail.com
